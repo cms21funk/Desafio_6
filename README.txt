@@ -5,7 +5,7 @@ Use una plantilla HTML para la edición de mi CV
 Hice Fork a los siguientes link
 
 Fork 1
-https://github.com/RODRIGOMORAMO/proyecto-cv
+https://github.com/ChuchoSR/project-cv-dslt
 
 Commit = "Hice Fork a mi compañero Latam Jesus e hice modificaciones en la linea 15"
 
