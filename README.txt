@@ -14,4 +14,6 @@ https://github.com/RODRIGOMORAMO/spirithrasher.github.io
 
 Commit = "Hice Fork a mi compañero Latam Javier e hice modificaciones en la linea 15"
 
+De igual forma constribui en el codigo de su index.html en la linea 15 con PULL REQUEST
+
 Saludos
